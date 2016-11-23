@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28921" started-at="2016-11-22T23:57:55Z" finished-at="2016-11-22T23:58:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28921" started-at="2016-11-22T23:57:55Z" finished-at="2016-11-22T23:58:24Z">
+      <class name="testCases1.Login1">
+        <test-method status="PASS" signature="startAutomation()[pri:0, instance:testCases1.Login1@4fe3c938]" name="startAutomation" is-config="true" duration-ms="843" started-at="2016-11-22T15:57:54Z" finished-at="2016-11-22T15:57:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startAutomation -->
+        <test-method status="PASS" signature="checkRunMode(java.util.Hashtable)[pri:0, instance:testCases1.Login1@4fe3c938]" name="checkRunMode" duration-ms="13523" started-at="2016-11-22T15:57:55Z" data-provider="getData" finished-at="2016-11-22T15:58:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{RunMode=N, Password=suraj1310, Email=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRunMode -->
+        <test-method status="PASS" signature="checkRunMode(java.util.Hashtable)[pri:0, instance:testCases1.Login1@4fe3c938]" name="checkRunMode" duration-ms="15375" started-at="2016-11-22T15:58:09Z" data-provider="getData" finished-at="2016-11-22T15:58:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{RunMode=Y, Password=quality26, Email=ntester26@gmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRunMode -->
+        <test-method status="PASS" signature="closeAutomation()[pri:0, instance:testCases1.Login1@4fe3c938]" name="closeAutomation" is-config="true" duration-ms="4411" started-at="2016-11-22T15:58:24Z" finished-at="2016-11-22T15:58:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAutomation -->
+      </class> <!-- testCases1.Login1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

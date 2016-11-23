@@ -1,0 +1,30 @@
+22/11/2016 15:57:54 devpinoyLogger starting automation
+22/11/2016 15:57:55 devpinoyLogger TSID:TS01	Desciption:Open the browser	Keyword:openBrowser	Object:null	Locator:null	Data:bType	screenshotCapture:No
+22/11/2016 15:57:58 devpinoyLogger TSID:TS01	Desciption:Open the browser	Keyword:openBrowser		PASSED
+22/11/2016 15:57:58 devpinoyLogger TSID:TS02	Desciption:Navigate to the provided url	Keyword:navigate	Object:null	Locator:null	Data:baseURL	screenshotCapture:No
+22/11/2016 15:58:05 devpinoyLogger TSID:TS02	Desciption:Navigate to the provided url	Keyword:navigate		PASSED
+22/11/2016 15:58:05 devpinoyLogger TSID:TS04	Desciption:Enter data in text field	Keyword:input	Object:email	Locator:id	Data:Emails	screenshotCapture:yes
+22/11/2016 15:58:05 devpinoyLogger TSID:TS04	Desciption:Enter data in text field	Keyword:input		FAILED
+22/11/2016 15:58:05 devpinoyLogger Error Screenshot saved in location: C:\Users\sgawas\Documents\Maven\automateAmazon\Screenshots\Login-TS04-input-Error-11222016155805.jpeg
+22/11/2016 15:58:05 devpinoyLogger TSID:TS05	Desciption:Enter data in text field	Keyword:input	Object:password	Locator:id	Data:Password	screenshotCapture:No
+22/11/2016 15:58:05 devpinoyLogger TSID:TS05	Desciption:Enter data in text field	Keyword:input		PASSED
+22/11/2016 15:58:05 devpinoyLogger TSID:TS06	Desciption:Click on specific Element	Keyword:click	Object:signIn	Locator:id	Data:null	screenshotCapture:Yes
+22/11/2016 15:58:08 devpinoyLogger TSID:TS06	Desciption:Click on specific Element	Keyword:click		PASSED
+22/11/2016 15:58:08 devpinoyLogger Screenshot saved in location: C:\Users\sgawas\Documents\Maven\automateAmazon\Screenshots\Login-TS06-click-11222016155808.jpeg
+22/11/2016 15:58:09 devpinoyLogger TSID:TS07	Desciption:Close the browse	Keyword:closeBrowser	Object:null	Locator:null	Data:null	screenshotCapture:No
+22/11/2016 15:58:09 devpinoyLogger TSID:TS07	Desciption:Close the browse	Keyword:closeBrowser		PASSED
+22/11/2016 15:58:09 devpinoyLogger TSID:TS01	Desciption:Open the browser	Keyword:openBrowser	Object:null	Locator:null	Data:bType	screenshotCapture:No
+22/11/2016 15:58:12 devpinoyLogger TSID:TS01	Desciption:Open the browser	Keyword:openBrowser		PASSED
+22/11/2016 15:58:12 devpinoyLogger TSID:TS02	Desciption:Navigate to the provided url	Keyword:navigate	Object:null	Locator:null	Data:baseURL	screenshotCapture:No
+22/11/2016 15:58:19 devpinoyLogger TSID:TS02	Desciption:Navigate to the provided url	Keyword:navigate		PASSED
+22/11/2016 15:58:19 devpinoyLogger TSID:TS04	Desciption:Enter data in text field	Keyword:input	Object:email	Locator:id	Data:Emails	screenshotCapture:yes
+22/11/2016 15:58:19 devpinoyLogger TSID:TS04	Desciption:Enter data in text field	Keyword:input		FAILED
+22/11/2016 15:58:19 devpinoyLogger Error Screenshot saved in location: C:\Users\sgawas\Documents\Maven\automateAmazon\Screenshots\Login-TS04-input-Error-11222016155819.jpeg
+22/11/2016 15:58:19 devpinoyLogger TSID:TS05	Desciption:Enter data in text field	Keyword:input	Object:password	Locator:id	Data:Password	screenshotCapture:No
+22/11/2016 15:58:19 devpinoyLogger TSID:TS05	Desciption:Enter data in text field	Keyword:input		PASSED
+22/11/2016 15:58:19 devpinoyLogger TSID:TS06	Desciption:Click on specific Element	Keyword:click	Object:signIn	Locator:id	Data:null	screenshotCapture:Yes
+22/11/2016 15:58:22 devpinoyLogger TSID:TS06	Desciption:Click on specific Element	Keyword:click		PASSED
+22/11/2016 15:58:22 devpinoyLogger Screenshot saved in location: C:\Users\sgawas\Documents\Maven\automateAmazon\Screenshots\Login-TS06-click-11222016155822.jpeg
+22/11/2016 15:58:23 devpinoyLogger TSID:TS07	Desciption:Close the browse	Keyword:closeBrowser	Object:null	Locator:null	Data:null	screenshotCapture:No
+22/11/2016 15:58:24 devpinoyLogger TSID:TS07	Desciption:Close the browse	Keyword:closeBrowser		PASSED
+22/11/2016 15:58:24 devpinoyLogger ending automation
